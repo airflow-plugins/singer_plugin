@@ -1,5 +1,3 @@
-import json
-
 from airflow.operators.bash_operator import BashOperator
 from airflow.utils.decorators import apply_defaults
 
